@@ -19,6 +19,7 @@ ALGORITHM or STEPS to build this model:
 
 4. In the Arduino IDE, compile and push the fire detection and alarm system.ino code to the arduino. 
 
+https://user-images.githubusercontent.com/92458543/209529815-7b9bc9c3-1154-4257-8959-596e850052ac.mp4
 
 https://user-images.githubusercontent.com/92458543/209527175-3edac7ab-fc9a-41e9-aa4a-04a60d446b7c.mp4
 
