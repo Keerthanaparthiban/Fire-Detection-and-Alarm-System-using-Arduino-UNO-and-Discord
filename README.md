@@ -8,5 +8,6 @@ ALGORITHM or STEPS to build this model:
 
 1. Create a Discord webhook server
 
-![discord webhook](https://user-images.githubusercontent.com/92458543/209525862-14a25bc9-5ac0-4712-900f-7d6a78155576.png)
+![discord webhook](https://user-images.githubusercontent.com/92458543/209526099-7360b437-f069-40ed-8d67-09e5523d035d.png)
+
 
