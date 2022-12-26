@@ -14,6 +14,7 @@ ALGORITHM or STEPS to build this model:
 2. Set up a server to send messages to the discord webhook server when fire is detected (Refer server.js file).
 
 3. Set up the Arduino connections. 
+
 ![Arduino connection](https://user-images.githubusercontent.com/92458543/209525400-8366d799-506a-44b3-a275-9fcfefeb1a09.jpeg)
 
 4. In the Arduino IDE, compile and push the fire detection and alarm system.ino code to the arduino. 
