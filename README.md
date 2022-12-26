@@ -6,8 +6,17 @@ Arduino connections and components used - Arduino UNO, BreadBoard, LED - red, gr
 
 ALGORITHM or STEPS to build this model:
 
-1. Create a Discord webhook server
+1. create a discord webhook server. copy the webhook url.
 
-![discord webhook](https://user-images.githubusercontent.com/92458543/209526099-7360b437-f069-40ed-8d67-09e5523d035d.png)
+![discord webhook](https://user-images.githubusercontent.com/92458543/209526712-3e4d191f-b821-4414-a956-d78bac1db839.png)
+
+2. Set up a server to send messages to the discord webhook server when fire is detected (Refer server.js file).
+
+3. Set up the Arduino connections. 
+
+4. In the Arduino IDE, compile and push the fire detection and alarm system.ino code to the arduino. 
+
+
+https://user-images.githubusercontent.com/92458543/209527175-3edac7ab-fc9a-41e9-aa4a-04a60d446b7c.mp4
 
 
